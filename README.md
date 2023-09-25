@@ -1,1 +1,1 @@
-# 3820-6820-demo
+Demo repository for a website
